@@ -8,9 +8,9 @@
 
 ## Contatos
 <div>
-    <a HREF="https://www.instagram.com/idiotmoosee" alvo="_em branco"><img Src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alvo="_em branco"></a>
+    <a href= "https://www.instagram.com/idiotmoosee" alvo="_em branco"><img Src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alvo="_em branco"></a>
     &nbsp;
-    <a HREF="https:://www.linkedin.com/in/giovanna-sumaiyah-97b028210" alvo="_em branco"><img Src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alvo="_em branco">
+    <a href= "https:://www.linkedin.com/in/giovanna-sumaiyah-97b028210" alvo="_em branco"><img Src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alvo="_em branco">
     &nbsp;
-    <a HREF="mailto:sumaiyahgiovanna@gmail.com"><img Src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo="_em branco"></a>
+    <a href= "mailto:sumaiyahgiovanna@gmail.com"><img Src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo="_em branco"></a>
 </div>
